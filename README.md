@@ -8,7 +8,7 @@ In this article, we will build and deploy a Machine Learning model using Flask. 
 
 ## Installation and Setup
 
-To create a basic flask app, refer to → [Create Flask App](#)
+To create a basic flask app, refer to → [Create Flask App](https://www.geeksforgeeks.org/python/flask-creating-first-simple-application/)
 
 After creating and activating a virtual environment install Flask and other libraries required in this project using these commands:
 
@@ -33,7 +33,7 @@ After completing the project, our file structure should look similar to this:
 
 We are using the **Adult Income Dataset** from the UCI Machine Learning Repository. This dataset contains information about individuals, including age, education, occupation, and marital status, with the goal of predicting whether their income exceeds $50K per year.
 
-👉 [Download Dataset Here](#)
+👉 [Download Dataset Here](https://media.geeksforgeeks.org/wp-content/uploads/20250324175201901232/adult.csv)
 
 **Dataset Preview:**
 
